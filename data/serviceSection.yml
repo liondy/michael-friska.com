@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: We Provice Creative Solutions
+title: >
+  ## Our Services
+
+  Well, this isn't just our random and ordinary blog. Well yes, basically it is a random blog post but we provide services too. So, check this out guys!
+service:
+  - content: >
+      #### UI/UX Design 
+
+      Friska is really keen on designing. She can design products, website, android application, etc. She is very skilled and careful. You will love her work.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      Michael has the ability to develop any kind of websites with any kind of difficulties. He can develop website from any sources such as native or with framework. You will be amazed by the results.
+    image: images/service/web.svg
+  - content: >
+      #### Database Analysis
+
+      Friska often manages database when she joins a group project. She can design the best database for your office based on needs. She can perform queries that won't slow your website.
+    image: images/service/creative.svg
+  - content: >
+      #### Android Development
+
+      Michael has done some android application development during his career. He can developed android apps with native Java or library such as React Native.
+    image: images/service/web.svg
+  - content: >
+      #### IT Consultant
+
+      Friska is a confident person. She has the ability to speak well so that she is the right person for you to talk to. She can give good direction about your problem.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Network Management
+
+      Michael has an internship for 2 years as a System Administrator. He can manage labs, networks, and servers well. This skills can be used to help you setup your home/office network.
+    image: images/service/branding.svg

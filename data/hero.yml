@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: Hi, Michael and Friska here
+content: |
+  # We're a strong couple team
+
+  Introducing Michael Liondy and Friska Christiana. We are a couple and developers. 
+
+  Friska is a UI/UX Designer, Front-end devs, and Machine Learning enthusiast.
+
+  Michael is a Back-end devs, Network Engineer, System Administrator, and Cybersecurity enthusiast
+buttonName: Contact us
+buttonURL: contact
+image: images/hero/profile.jpg
+videoThumb: images/hero/thumb.jpg
+videoURL: https://www.youtube.com/watch?v=A1V6r31Uig0

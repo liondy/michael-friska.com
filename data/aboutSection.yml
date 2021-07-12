@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About us
+
+  Who are we? What are we doing? We are a couple and everyone seems to know about that😂. Do you want to know more about us? Well, what do you waiting for? Check this out👇!
+content: |
+  ### We design and build ultimate things.
+
+  We're a computer science students from Indonesia. We've been together since July 2018 when we were second year students. Currently, we're working on our undergraduate-thesis, so..good luck to us😟. Friska loves designing things while Michael loves implementing her design. Wow, what a great couple! 
+
+  Apart from our "nerdy" life, we like to hang out, watching movies together, trying new things, and ...eat😝! We tried a lot of food. We are like food-blogger wannabe🤣. Well, that's what most couple do. We also like playing games together and hopefully we can make ones also hehe.
+button1Name: Reach us
+button2Name: Ask us anything!
+button1Target: contact
+button2Target: contact
+image: images/about/about.jpg
