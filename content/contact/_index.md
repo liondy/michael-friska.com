@@ -1,4 +1,4 @@
 ---
-title: Contact Me
+title: Contact Michael and Friska
 breadcrumb: Contact
 ---

@@ -1,6 +1,7 @@
 ---
 title: Bebras Application
 date: 2020-01-27
+hero: Michael
 thumbnail: images/portfolio/bebras.png
 detail: images/portfolio/bebras.jpg
 service: Development, Android

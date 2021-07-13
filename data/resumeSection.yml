@@ -1,58 +1,60 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Our Resume
 title: >
-  ## My Expertises
+  ## Our Experience
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  Please click between this tab to switch between Michael's Resume and Friska's Resume.
+tab1Name: Michael
+tab2Name: Friska
+tab1Target: michael
+tab2Target: friska
 
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
-tab1Target: education
-tab2Target: experience
-
-education:
+tab1Content:
   - content: >
-      #### Master in Arts
+      #### Parahyangan Catholic University
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Michael studied at Parahyangan Catholic University from 2017-2021. He had a Bachelor's degree in Computer Science. During college, he had interests in Algorithms, Competitive Programming, Android, Web Development, Networking, and Cybersecurity.
+    type: study
+    time: 2017-Present
   - content: >
-      #### Master in Arts
+      #### System Administrator
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Michael has an internship at Computer Science Laboratory for 2 years. He responsibles to maintain all computer in lab. He had manage servers such as Windows, Linux, NAS, Active Directory, Samba, NTP, etc. During this internship, he had to keep the network safe, making sure all computers can be accessed, maintaining all servers in lab, setup routers and switch, also writing scripts to automate things around.
+    type: internship
+    time: 2019-Present
   - content: >
-      #### Master in Arts
+      #### Assistant Lecturer
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Before having an internship as a System Administrator, Michael had already becoming an assitant lecturer. He responsibles to help lecturers teach students at some courses. Michael got 2 classes which is Basic Programming class(2018) and Computer Programming with C class(2019). During this internship, he manage to guide some college students to do their work, giving advice in solving a problem, preparing practice questions, and mark student's work.
+    type: internship  
+    time: 2018-2019
   - content: >
-      #### Master in Arts
+      #### Mathematics Tutor
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Before going to college, Michael is a kumon students from kindergarten. After he completes all the courses from Kumon, he became mathematics tutor from level J to X at Kumon Pasir Salam, Bandung. He worked here until second semester of college. During this time, he manage to guid some students to do their worksheet, giving advice in solving a problem, and check student's worksheet.
+    type: work
+    time: 2017-2019
 
-experience:
+tab2Content:
   - content: >
-      #### Umbrella co. 
+      #### Parahyangan Catholic University
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
-  - content: >
-      #### Aperture Science 
+      Friska studied at Parahyangan Catholic University from 2017-2021. She had a Bachelor's degree in Computer Science. During college, she had interests in Web Development especially Front-end, Networking, Cybersecurity, and Machine Learning.
+    type: study
+    time: 2017-Present
+  # - content: >
+  #     #### Aperture Science 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
-  - content: >
-      #### ACME Inc. 
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2010-2016
+  # - content: >
+  #     #### ACME Inc. 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2005-2010
+  # - content: >
+  #     #### LexCorp 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2001-2005
