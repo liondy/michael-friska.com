@@ -20,10 +20,10 @@
             <div class="col-lg-6">
                 <div class="tab-content ">
                     <div class="resume__education tab-pane active" id="{{.tab1Target}}">
-                        {{ $Section := .education }}
+                        {{ $Section := .tab1Content }}
                         {{ range $Section }}
                         <div class="resume__education_item">
-                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            <span class="pre-line text-primary"> {{ .time }} ({{ .type }}) </span>
                             {{ .content | markdownify }}
                         </div>
                         {{ end }}
@@ -31,10 +31,10 @@
                     </div>
 
                     <div class="resume__education tab-pane" id="{{.tab2Target}}">
-                        {{ $Section := .experience }}
+                        {{ $Section := .tab2Content }}
                         {{ range $Section }}
                         <div class="resume__education_item">
-                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            <span class="pre-line text-primary"> {{ .time }} ({{ .type }}) </span>
                             {{ .content | markdownify }}
                         </div>
                         {{ end }}

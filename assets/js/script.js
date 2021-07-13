@@ -1,6 +1,8 @@
 // Preloader
 
 function PageLoad() {
+  // document.location.href = String( document.location.href ).split("#/")[0];
+  // window.location.href.split('#')[0];
   $("body").removeClass("hidden");
   TweenMax.to($(".preloader-text"), 1, {
     force3D: true,
@@ -66,8 +68,28 @@ $(document).ready(function () {
     }
   });
 
+  // var nav_link = $(".scroll");
+  // nav_link.click(function(e) {
+  //   e.preventDefault();
+  //   console.log("aaaa");
+  //   let url = $(this).attr("href");
+  //   console.log(url);
+  //   if (url.indexOf('#') !== 1) {
+  //     console.log("bbb");
+  //     let hash = url.split('#')[1];
+  //     console.log(hash);
+  //     location.href.split('#')[0]
+  //     // $("body,html").animate(
+  //     //   {
+  //     //     scrollTop: hash.offset().top,
+  //     //   },
+  //     //   1000
+  //     // );
+  //   }
+  // })
+
   // Smooth scrolling
-  var scrollLink = $(".scroll");
+  var scrollLink = $(".nav-link");
   scrollLink.click(function (e) {
     let elem = $(this.hash);
     if (elem.length) {
