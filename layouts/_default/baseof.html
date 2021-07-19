@@ -3,7 +3,11 @@
 {{ partial "head.html" . }}
 
 <body>
-  {{ partial "navbar.html" . }}
+  {{ if $.IsHome }}
+    {{ partial "navbar.html" . }}
+  {{ else }}
+    {{ partial "navpages.html" . }}
+  {{ end }}
   <div id="content">
     {{ block "main" . }}{{ end }}
   </div>

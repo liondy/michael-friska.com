@@ -89,7 +89,7 @@ $(document).ready(function () {
   // })
 
   // Smooth scrolling
-  var scrollLink = $(".nav-link");
+  var scrollLink = $(".scroll");
   scrollLink.click(function (e) {
     let elem = $(this.hash);
     if (elem.length) {
