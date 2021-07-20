@@ -25,13 +25,17 @@ name = "Resume"
 url = "#resume"
 weight = 5
 [[menu.main]]
+name = "Opinion"
+url = "#testimonial"
+weight = 6
+[[menu.main]]
 name = "Blog"
 url = "#blog"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 7
+weight = 8
 
 
 
@@ -40,10 +44,11 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "Copyright © Michael-Friska 2021"
 footerLogo = "images/site-navigation/logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
+formspreeURL = "https://formspree.io/f/mgerlrkn"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 custom_css = ["css/style.css"]
+testiURL = "/testi"
 
 [params.address]
 address = "Bandung, Indonesia"
