@@ -38,7 +38,7 @@ tab1Content:
 
 tab2Content:
   - content: >
-      #### Parahyangan Catholic University
+      #### Parahyangan Catholic University {#unpar}
 
       Friska studied at Parahyangan Catholic University from 2017-2021. She had a Bachelor's degree in Computer Science. During college, she had interests in Web Development especially Front-end, Networking, Cybersecurity, and Machine Learning.
     type: study

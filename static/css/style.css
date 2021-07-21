@@ -1,2 +1,12 @@
 img[alt=dinner] { width: 400px; }
 img[alt=us] {width: 600px;}
+img[alt=hero-image] {
+  -webkit-mask: url("/images/hero/hero-mask-svg.png");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  -webkit-mask-position: center center;
+}
+img[alt=about-img] {
+  -webkit-mask: url("/images/about/about-mask-svg.svg"); 
+  -webkit-mask-size: contain;
+}

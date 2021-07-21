@@ -26,7 +26,7 @@ url = "#resume"
 weight = 5
 [[menu.main]]
 name = "Opinion"
-url = "#testimonial"
+url = "#opinion"
 weight = 6
 [[menu.main]]
 name = "Blog"
@@ -57,25 +57,29 @@ openingHours = "All day"
 phone = "+(62) 878 7381 9629"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyA9c7xVdBpcs688M1kpcAkDM3jYKRZ0CCM"
+latitude = "-6.914864"
+longitude = "107.608238"
 pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/coded.by.michael"
+title = "Mikes Code Facebook Page"
 weight = 1
 [[params.social]]
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/friska.christiana1"
+title = "Friska Facebook Page"
 weight = 2
 [[params.social]]
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/michael-liondy/"
+title = "Mike Linkedin"
 weight = 3
 [[params.social]]
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/friska-christiana/"
+title = "Friska Linkedin"
 weight = 4
