@@ -17,8 +17,8 @@
     }
     &__heading{
         margin-right: 100px;
-        position: sticky;
         position: -webkit-sticky;
+        position: sticky;
         top: 150px;
         @include desktop{
             margin-right: 0;
