@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://michael-friska.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
@@ -52,7 +52,7 @@ testiURL = "/testi"
 
 [params.address]
 address = "Bandung, Indonesia"
-email = "contact@michael-friska.com"
+email = "hi@michael-friska.com"
 openingHours = "All day"
 phone = "+(62) 878 7381 9629"
 
