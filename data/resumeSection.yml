@@ -27,7 +27,7 @@ tab1Content:
       #### Assistant Lecturer
 
       Before having an internship as a System Administrator, Michael had already becoming an assitant lecturer. He responsibles to help lecturers teach students at some courses. Michael got 2 classes which is Basic Programming class(2018) and Computer Programming with C class(2019). During this internship, he manage to guide some college students to do their work, giving advice in solving a problem, preparing practice questions, and mark student's work.
-    type: internship  
+    type: internship
     time: 2018-2019
   - content: >
       #### Mathematics Tutor
@@ -44,17 +44,14 @@ tab2Content:
     type: study
     time: 2017-Present
   # - content: >
-  #     #### Aperture Science 
-
+  #     #### Aperture Science
   #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   #   time: 2010-2016
   # - content: >
-  #     #### ACME Inc. 
-
+  #     #### ACME Inc.
   #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   #   time: 2005-2010
   # - content: >
-  #     #### LexCorp 
-
+  #     #### LexCorp
   #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   #   time: 2001-2005
