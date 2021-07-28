@@ -18,12 +18,12 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="testimonial__slider">
-                    {{ $urlPre := "https://testimonial-michael-friska-gules.vercel.app" }}
-                    {{ range $testi := getJSON $urlPre "/api/testi" }}
+                    {{ $urlPre := "https://opinion.michael-friska.com" }}
+                    {{ range $testi := getJSON $urlPre "/api" }}
                     <div class="testimonial__slider_item">
                         {{ if .star }}
                         <ul class="testimonial__slider_item-rating">
-                            {{ $rating := .rating | int }}
+                            {{ $rating := .star | int }}
                             {{ $rating := sub $rating 1 }}
                             {{ range $i, $sequence := (seq 5) }}
                             {{ if le $i $rating }}
@@ -44,7 +44,7 @@
         <div class="row mt-3">
             <div class="col">
                 <label for="title">Start writing your opinion about us!</label> <br/>
-                <form action="https://testimonial-michael-friska-gules.vercel.app/api/" method="post">
+                <form action="https://opinion.michael-friska.com/" method="post">
                     <div class="row">
                         <label for="testi-name" class="col-sm-2 col-form-label">Name</label>
                         <div class="col-sm-10">
@@ -61,15 +61,14 @@
                         <label for="testi-rating" class="col-sm-2 col-form-label">Your Rating</label>
                         <div class="col-sm-10 rating">
                             <input type="number" class="form-control" name="testi-rating" id="testi-rating" placeholder="Enter range 1-5" min="1" max="5">
-                            <!-- <span><input type="radio" name="rating" id="str5" value="5"><label for="str5"></label></span>
-                            <span><input type="radio" name="rating" id="str4" value="4"><label for="str4"></label></span>
-                            <span><input type="radio" name="rating" id="str3" value="3"><label for="str3"></label></span>
-                            <span><input type="radio" name="rating" id="str2" value="2"><label for="str2"></label></span>
-                            <span><input type="radio" name="rating" id="str1" value="1"><label for="str1"></label></span> -->
                         </div>
                     </div>
                     <div class="mt-5 float-end">
                         <button type="submit" class="btn btn-success">Submit</button>
+                    </div>
+                    <div class="mt-3">
+                        <label for="ps" class="col-form-label">P.s: We suggest you take a look around before your opinion can be published in this site.</label>
+                        <label for="ps" class="col-form-label">If you're curious whether your opinion had inserted to our database, well, you can see in our API</label>
                     </div>
                 </form>
             </div>
