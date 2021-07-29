@@ -83,3 +83,7 @@ icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/friska-christiana/"
 title = "Friska Linkedin"
 weight = 4
+
+[caches.getjson]
+dir = ":cacheDir/:project"
+maxAge = -1
