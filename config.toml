@@ -3,6 +3,11 @@ languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "Michael and Friska"
+
+[caches.getjson]
+dir = ":cacheDir/:project"
+maxAge = "10s"
+
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -83,7 +88,3 @@ icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/friska-christiana/"
 title = "Friska Linkedin"
 weight = 4
-
-[caches.getjson]
-dir = ":cacheDir/:project"
-maxAge = 0
