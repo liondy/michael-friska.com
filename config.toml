@@ -2,7 +2,7 @@ baseURL = "https://michael-friska.liondy.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Michael and Friska"
+title = "Michael & Friska"
 
 [caches.getjson]
 dir = ":cacheDir/:project"
