@@ -19,7 +19,7 @@
             <div class="col-lg-12">
                 <div class="testimonial__slider">
                     <!-- {{ $urlPre := "https://opinion-michael-friska.liondy.com" }} -->
-                    {{ range $testi := getJSON $urlPre "/api" }}
+                    {{ range $testi := getJSON "https://opinion-michael-friska.liondy.com/api" }}
                     <div class="testimonial__slider_item">
                         {{ if .star }}
                         <ul class="testimonial__slider_item-rating">
