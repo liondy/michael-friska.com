@@ -10,3 +10,8 @@ min_version = "0.41"
 [author]
   name = "Static Mania"
   homepage = "https://staticmania.com/"
+
+[caches]
+  [caches.getjson]
+    dir = ':cacheDir/:project'
+    maxAge = -1
