@@ -89,3 +89,5 @@ icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/friska-christiana/"
 title = "Friska Linkedin"
 weight = 4
+
+ignoreErrors = ["error-remote-getjson"]
