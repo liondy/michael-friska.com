@@ -1,9 +1,9 @@
 ---
 title: Zenna Office & Home Living
-date: 11-2023
+date: 2023-11
 hero: Michael
 thumbnail: images/portfolio/zennalogo.jpeg
-detail: images/portfolio/zennahome.png
+detail: images/portfolio/zennahome.jpg
 service: E-Commerce
 client: Zenna
 shortDescription: A web catalog to display Zenna product. An e-commerce app so that customer can buy product from the web.

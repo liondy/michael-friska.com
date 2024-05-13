@@ -1,6 +1,6 @@
 ---
 title: PT Gundjaya Abadi
-date: 06-2023
+date: 2023-06
 hero: Michael
 thumbnail: images/portfolio/gd.jpeg
 detail: images/portfolio/gd-dashboard.jpeg
