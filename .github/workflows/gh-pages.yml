@@ -22,13 +22,11 @@ jobs:
 
       - name: Build
         run: hugo --minify --ignoreCache --gc
-      
-      - run: echo ${{secrets.HUGO_TOKEN}} | sed 's/./& /g'
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/master'
         with:
-          github_token: ${{ secrets.HUGO_TOKEN }}
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
           publish_dir: ./public
           cname: michael-friska.liondy.com
