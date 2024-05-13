@@ -12,17 +12,42 @@ tab2Target: friska
 
 tab1Content:
   - content: >
+      #### Jabar Digital Service
+
+      Jabar Digital Service is a provincial government formed by former governor, Ridwan Kamil in 2019. This was a new challenge for Michael as now he served the people in his hometown.
+      Michael tried new role in Jabar Digital Service. A devops role is very suitable for Michael as he had experiences in computer lab as a System Administrator. He managed to get the job and learned a lot during his time.
+      From his time at JDS, Michael managed to learn lot of things such as Kubernetes, Docker Swarm, Cloud Infrastructure AWS, GCP as well as Private Infrastructure using VMWare.
+      Michael was involved in a lot of projects and also learned a lot about security, especially there were many cyber attacks that targetted government area.
+    type: Sr. DevOps / SRE Engineer
+    time: 2022-Present
+  - content: >
+      #### Tricor Orisoft Indonesia
+
+      From Systeric, Michael upgraded his skill to a new level, a multinational company. Tricor's main field was HR Solution. Tricor was based in Hongkong and has another office in Malaysia. 
+      During his time, Michael managed to implement his frontend skills especially in React and Next Typescript. Working at Tricor gave Michael a lot of new skills. Not only on frontend development, but also on coordination with backend and devops engineer.
+    type: Freelance Frontend Developer
+    time: 2022-2023
+  - content: >
+      #### Systeric Technology Indonesia
+
+      After finished college, straight after graduation, Michael immediately joined a group of software developer developing an ERP system for German clients. 
+      Systeric was a software house based in Bali but had many clients from outside Indonesia. Michael managed to learn about comunicating with clients outside Indonesia as well as honed his programming skills.
+      During his time in Systeric, Michael managed to be promoted to team leader, leading 5 developers consisted of frontend and backend developer to develop other projects.
+      Michael learned a lot about storybook, scrum management in team, agile methodologies, and also managed some portfolio during his time in there.
+    type: Freelance Frontend & Team Leader
+    time: 2021-2022
+  - content: >
       #### Parahyangan Catholic University
 
       Michael studied at Parahyangan Catholic University from 2017-2021. He had a Bachelor's degree in Computer Science. During college, he had interests in Algorithms, Competitive Programming, Android, Web Development, Networking, and Cybersecurity.
     type: study
-    time: 2017-Present
+    time: 2017-2021
   - content: >
       #### System Administrator
 
-      Michael has an internship at Computer Science Laboratory for 2 years. He responsibles to maintain all computer in lab. He had manage servers such as Windows, Linux, NAS, Active Directory, Samba, NTP, etc. During this internship, he had to keep the network safe, making sure all computers can be accessed, maintaining all servers in lab, setup routers and switch, also writing scripts to automate things around.
+      Michael had an internship at Computer Science Laboratory for 2 years. He responsibles to maintain all computer in lab. He had manage servers such as Windows, Linux, NAS, Active Directory, Samba, NTP, etc. During this internship, he had to keep the network safe, making sure all computers can be accessed, maintaining all servers in lab, setup routers and switch, also writing scripts to automate things around.
     type: internship
-    time: 2019-Present
+    time: 2019-2021
   - content: >
       #### Assistant Lecturer
 
@@ -32,26 +57,32 @@ tab1Content:
   - content: >
       #### Mathematics Tutor
 
-      Before going to college, Michael is a kumon students from kindergarten. After he completes all the courses from Kumon, he became mathematics tutor from level J to X at Kumon Pasir Salam, Bandung. He worked here until second semester of college. During this time, he manage to guid some students to do their worksheet, giving advice in solving a problem, and check student's worksheet.
+      Before going to college, Michael was a kumon students from kindergarten. After he completes all the courses from Kumon, he became mathematics tutor from level J to X at Kumon Pasir Salam, Bandung. He worked here until second semester of college. During this time, he manage to guid some students to do their worksheet, giving advice in solving a problem, and check student's worksheet.
     type: work
     time: 2017-2019
 
 tab2Content:
   - content: >
+      #### PT DNArtworks Indonesia
+
+      PT DNArtworks Indonesia was a software house company but focused more on digital visual design. 
+      With Friska had the ability of joining the product team as well as development team, she managed to be an important role for clients.
+      Friska could develop the website, mostly company profile from clients. She also directly collaborate with clients, transforming client needs into digital solutions.
+      She also helped the clients to analyze the website and managed the SEO. Friska also helped to maintain the website, as well as guarding the infrastructure ensuring everything works well.
+      She became an important figure ensuring customer satisfaction.
+    type: Software Developer & Business Analyst
+    time: 2022-Present
+  - content: >
+      #### Systeric Technology Indonesia
+
+      Friska joined Systeric on Februari 2022 as a Quality Assurance (QA) Engineer. She was responsible for testing app that was built by developer team before submitting it to clients.
+      Systeric was a software house based in Bali but had many clients from outside Indonesia. Because of this, Friska was able to learn to collaborate with clients from different background. 
+      During her time, Friska was responsible to present the output to the client, ensuring everything works fine and aligned with the client goals.
+    type: Quality Assurance Engineer
+    time: 2022
+  - content: >
       #### Parahyangan Catholic University {#unpar}
 
-      Friska studied at Parahyangan Catholic University from 2017-2021. She had a Bachelor's degree in Computer Science. During college, she had interests in Web Development especially Front-end, Networking, Cybersecurity, and Machine Learning.
+      Friska studied at Parahyangan Catholic University from 2017-2022. She had a Bachelor's degree in Computer Science. During college, she had interests in Web Development especially Front-end, Networking, Cybersecurity, and Machine Learning.
     type: study
-    time: 2017-Present
-  # - content: >
-  #     #### Aperture Science
-  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  #   time: 2010-2016
-  # - content: >
-  #     #### ACME Inc.
-  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  #   time: 2005-2010
-  # - content: >
-  #     #### LexCorp
-  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  #   time: 2001-2005
+    time: 2017-2022
