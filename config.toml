@@ -53,7 +53,7 @@ googleAnalytics = "G-Q2GP6YVC0R"
 logo = "images/site-navigation/logo.png"
 custom_css = ["css/style.css"]
 testiURL = "/testi"
-opinionURL = "https://opinion-michael-friska.liondy.com"
+
 
 [params.address]
 address = "Bandung, Indonesia"
