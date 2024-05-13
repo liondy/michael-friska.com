@@ -1,7 +1,6 @@
 baseURL = "https://michael-friska.liondy.com/"
 languageCode = "en-us"
 paginate = 6
-theme = "portio"
 title = "Michael & Friska"
 
 [caches.getjson]
