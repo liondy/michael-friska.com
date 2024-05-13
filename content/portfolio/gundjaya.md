@@ -7,7 +7,7 @@ detail: images/portfolio/gd-dashboard.jpeg
 service: Information System
 client: PT Gundjaya Abadi
 shortDescription: A web app to store and create PO for a convection site.
-challenge: -
-solution: -
+challenge: 
+solution: 
 
 ---
