@@ -1,6 +1,6 @@
 ---
 title: Werkules ERP Solution
-date: 2021
+date: 2021-07-30
 hero: Michael
 thumbnail: images/portfolio/werkules-logo.webp
 detail: images/portfolio/Werkules.png

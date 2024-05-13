@@ -1,6 +1,6 @@
 ---
 title: Zenna Office & Home Living
-date: 2023-11
+date: 2023-11-01
 hero: Michael
 thumbnail: images/portfolio/zennalogo.jpeg
 detail: images/portfolio/zennahome.jpg

@@ -1,6 +1,6 @@
 ---
 title: BJB Salmon
-date: 12-2021
+date: 2021-12-31
 hero: Michael
 thumbnail: images/portfolio/logobjb.png
 detail: images/portfolio/bjbsalmon.png
