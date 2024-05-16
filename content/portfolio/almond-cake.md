@@ -2,7 +2,7 @@
 title: Almond Favorit
 date: 2022-09-27
 hero: Michael
-thumbnail: images/portfolio/almond-favorit.png
+thumbnail: images/portfolio/almond-favorit.jpg
 detail: images/portfolio/almond-cake.jpg
 service: E-Commerce, Wordpress
 client: Favoritmu Selalu
