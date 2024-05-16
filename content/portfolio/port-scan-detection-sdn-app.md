@@ -4,7 +4,7 @@ date: 2021-05-21
 hero: Michael
 thumbnail: images/portfolio/sdn-port-scan.png
 detail: images/portfolio/sdn-port-scan.png
-service: Development, Website, Terminal Apps
+service: Website, Terminal Apps, Python and PHP
 client: CHW
 shortDescription: This is Michael's Undergraduate Thesis. He's a cybersecurity enthusiast remember? He developed application that is able to detect port scanning activities in SDN network environment. The app is placed in SDN Controller. When the app detects abnormal activities, the app will capture and displays the activities on the web. This helps network administrator to identify what is happening on their network so that they could prevent further attacks.
 challenge: Michael needs to capture all port scanning activities accross the network so that network administrator can easily monitor their networks.

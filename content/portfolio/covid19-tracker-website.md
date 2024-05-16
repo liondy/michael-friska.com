@@ -4,7 +4,7 @@ date: 2021-01-23
 hero: Michael
 thumbnail: images/portfolio/covidwebsite.png
 detail: images/portfolio/covid-website.png
-service: Development, Website
+service: Information System, React JS
 client: PAN
 shortDescription: This was another project that was developed by Michael and team. He developed another Covid-19 Tracker but for this time, for website. Basically, it has the same function as in mobile apps, but this has another cool feature such as analyze positive, active, and death cases from all around the world. It has a referral hospital in every province in Indonesia and also user can see current zone whether their location is red zone or not. Cool isn't it?
 challenge: Michael needs to sort all countries based on percentage to see whether their country has reached herd immunity or not.

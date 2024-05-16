@@ -4,7 +4,7 @@ date: 2020-05-01
 hero: Michael
 thumbnail: images/portfolio/covidtracker.png
 detail: images/portfolio/covid-mobile-home.jpg
-service: Development, Android
+service: Information System, React Native Android
 client: Michael
 shortDescription: When the first pandemic, Michael has an initiative to make a live covid-19 tracker for all around the world. Using his skills in React Native, he developed an Android Application that delivers real-time data statistic of covid-19 from all around the world.
 challenge: When doing this, Michael has a problem to gather covid-19 API from all countries. He has to ensure that user can see all data clearly from all around the world. If the user has no internet, he has to make sure that the app asks wifi connection first.
